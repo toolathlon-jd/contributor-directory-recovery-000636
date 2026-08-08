@@ -5,8 +5,8 @@ Thank you for helping our community projects thrive.
 <!-- BEGIN GENERATED CONTRIBUTOR DIRECTORY -->
 | Area | Contributor | GitHub | Role |
 | --- | --- | --- | --- |
-| Documentation | Legacy Writer | [@legacy-writer](https://github.com/legacy-writer) | Archive steward |
-<!-- END GENERATED CONTRIBUTOR DIRECTORY -->
+| Documentation | Amina Bello | [@amina-bello](https://github.com/amina-bello) | Guides maintainer |
+| Documentation | Rui
 
 ## Onboarding
 
